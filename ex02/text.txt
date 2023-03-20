@@ -1,0 +1,13 @@
+//mkdir test0
+//echo "hello" > test1
+//mkdir test2
+//echo "hello" > test4
+//mkdir test3
+//mkdir test5
+//ln -s test0 test6 */
+//chmod 404 test5
+//chmod 641 test4
+//chmod 404 test3
+//chmod 504 test2
+//chmod 714 test1
+//chmod 715 test0
