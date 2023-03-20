@@ -1,2 +1,8 @@
-ls -la -A ../../shell00 
+ls -trhpm
+
+/* -t: sort by modification time, newest first
+   -r: --reverse order while sorting
+   -h: --human readable
+   -p: --indicator-style=slash append / indicator to directories
+   -m: fill width with a comma, separated list of entries
 
