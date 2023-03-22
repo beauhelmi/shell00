@@ -21,7 +21,6 @@ name that start and end by #
 * Only one command is allowed: no ’;’ or ’&&’ or other shenanigans.
 
 ```
-%>cat -e a
 man find
 ```
 
