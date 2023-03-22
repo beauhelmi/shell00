@@ -6,6 +6,11 @@ I'm thrilled to announce that I'm currently undertaking the Piscine at 42KL, a j
 
 Let's get started!
 
+## 🚀 About Me
+
+[my websites](https://burhanuddinhelmi.netlify.app)
+
+
 ## Chapter I
 
 ### Instructions
