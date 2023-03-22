@@ -13,10 +13,9 @@
 ### TODO
 
 *  Create your own SSH key. Once it is done:
-*  
-**  Add your public key to your repository, in a file name id_rsa_pub
+*   Add your public key to your repository, in a file name id_rsa_pub
 
-**  Update your ssh key on the intranet. This will allow you to push the repository to our git server.
+*   Update your ssh key on the intranet. This will allow you to push the repository to our git server.
 ```
 The file’s name was not chosen randomly.
 
