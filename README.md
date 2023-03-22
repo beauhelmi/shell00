@@ -8,7 +8,7 @@ Let's get started!
 
 ## 🚀 About Me
 
-[my websites](https://burhanuddinhelmi.netlify.app)
+[check-me-out](<a href="https://burhanuddinhelmi.netlify.app" target="_blank"></a>)
 
 
 ## Chapter I
