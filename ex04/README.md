@@ -24,6 +24,6 @@ What has not been asked for should not be done!
 
 ## Documentation
 
-[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex03/id_rsa_pub)
+[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex04/midLS)
 
 
