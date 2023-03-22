@@ -1,7 +1,7 @@
 # Chapter III
 ## Exercise 00 : Z
 
-|               Exercise 03             |
+|               Exercise 00             |
 |---------------------------------------|
 | Turn-in directory : ex00/				|
 | Files to turn in : z			|
