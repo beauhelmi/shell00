@@ -1,7 +1,14 @@
+# Introduction
 
-# Chapter I
+Welcome to my README!
 
-## Instructions
+I'm thrilled to announce that I'm currently undertaking the Piscine at 42KL, a journey that began back in March 2023. I'm excited to share my progress, experiences, and insights with you as I take on this challenge. 
+
+Let's get started!
+
+## Chapter I
+
+### Instructions
 
 • Only this page will serve as reference; do not trust rumors.
 
