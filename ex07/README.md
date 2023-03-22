@@ -32,6 +32,6 @@ the stolen plans that can save her people and restore freedom to the galaxy...$
 
 ## Documentation
 
-[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex05/git_commit.sh)
+[Diff then patch](https://github.com/beauhelmi/shell00/blob/main/ex07/a)
 
 
