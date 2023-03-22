@@ -5,7 +5,6 @@
 |               Exercise 03             |
 |---------------------------------------|
 |               SSH Key             |
-|---------------------------------------|
 | Turn-in directory : ex03/				|
 | Files to turn in : id_rsa_pub			|
 | Allowed functions : None				|
