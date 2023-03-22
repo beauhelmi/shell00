@@ -12,9 +12,9 @@
 
 * Create a file called testShell00 in your submission directory.
  
-• Figure out a way for the output to look like this (except for the “total 1” line):
+* Figure out a way for the output to look like this (except for the “total 1” line):
 
-• Once you’ve achieved the previous steps, execute the following command to create
+* Once you’ve achieved the previous steps, execute the following command to create
 the file to be submitted: tar -cf testShell00.tar testShell00.
 ```
 %> ls -l
