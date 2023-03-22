@@ -25,6 +25,6 @@ cc7c706f446a5b8f9f6727dc5de199ce570720fc
 
 ## Documentation
 
-[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex04/midLS)
+[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex05/git_commit.sh)
 
 
