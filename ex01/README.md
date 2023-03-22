@@ -26,4 +26,4 @@ total 1
 
 ## Documentation
 
-[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex00/z)
+[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex01/testShell00)
