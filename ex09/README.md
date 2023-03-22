@@ -22,7 +22,7 @@ man file
 
 ## Documentation
 
-[DOcumentation](https://github.com/beauhelmi/shell00/blob/main/ex08/clean)
+[DOcumentation](https://github.com/beauhelmi/shell00/blob/main/ex09/ft_magic)
 
 ## Lessons Learned
 
