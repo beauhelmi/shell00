@@ -26,6 +26,6 @@ the private key.
 
 ## Documentation
 
-[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex02/text.txt)
+[Documentation](https://github.com/beauhelmi/shell00/blob/main/ex03/id_rsa_pub)
 
 
