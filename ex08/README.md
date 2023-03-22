@@ -27,6 +27,6 @@ man find
 
 ## Documentation
 
-[Diff then patch](https://github.com/beauhelmi/shell00/blob/main/ex08/clean)
+[DOcumentation](https://github.com/beauhelmi/shell00/blob/main/ex08/clean)
 
 
