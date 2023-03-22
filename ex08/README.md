@@ -28,6 +28,6 @@ man find
 
 ## Documentation
 
-[Diff then patch](https://github.com/beauhelmi/shell00/blob/main/ex07/a)
+[Diff then patch](https://github.com/beauhelmi/shell00/blob/main/ex08/clean)
 
 
